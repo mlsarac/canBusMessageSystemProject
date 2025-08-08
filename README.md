@@ -34,8 +34,6 @@ can_sender.py              # Mesaj gönderme fonksiyonları
 can_ui.py                  # Kullanıcı arayüzü
 dbc_handler.py             # DBC dosyası yükleme ve sinyal okuma
 DBC_fixed_cleaned.dbc      # Örnek DBC dosyası
-UDSResponse.py             # UDS yanıt işleme (opsiyonel)
-J1939_DBC_Reader.py        # J1939 mesaj okuma aracı (opsiyonel)
 ```
 
 ## Lisans
