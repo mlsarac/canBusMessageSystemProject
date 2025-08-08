@@ -1,4 +1,5 @@
 from uds_REQ import UDSRequest 
+from UDSRequest import UDSRequest 
 import can
 class UDSResponse:
     def __init__(self, original_request: UDSRequest, response_data):
