@@ -1,4 +1,3 @@
-from uds_REQ import UDSRequest 
 from UDSRequest import UDSRequest 
 import can
 class UDSResponse:
